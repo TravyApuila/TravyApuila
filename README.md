@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://github.com/yourusername.png" width="150">
+</p>
 
-<!--
-**TravyApuila/TravyApuila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, World! I'm Travy Apuila Jasa Said
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a university student at **USU** who loves programming! I have a strong interest in **UI/UX design** and **Object-Oriented Programming (OOP)**. I enjoy building intuitive user interfaces and writing clean, efficient code.
+
+## 🛠️ Tech
+- **Languages:** Java, Python, JavaScript, C++ 
+- **Tools:** NetBeans, Git, GitHub, VS Code  
+
+## 📌 Featured Projects
+- **Task Reminder App** – A Java application to help students manage their deadlines with reminders.  
+
+## 📫 Get in Touch
+- Email: [travysaid@gmail.com](travysaid@gmail.com).
+- GitHub: [github.com/TravyApuila](https://github.com/TravyApuila)
+- Instagram: [@TheIndomieGuy_]()
+
+### Thanks for stopping by!
