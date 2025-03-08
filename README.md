@@ -1,7 +1,7 @@
 # Hello, World! I'm Travy Apuila Jasa Said
 
 ## About Me
-I'm a university student at **USU** who loves programming! I have a strong interest in **UI/UX design** and **Object-Oriented Programming (OOP)**. I enjoy building intuitive user interfaces and writing clean, efficient code.
+I'm a university student at **USU** who loves programming! I have a strong interest in **UI/UX design** and **Object-Oriented Programming (OOP)**.
 
 ## Tech Stuff
 - **Languages:** Java, Python, JavaScript, C++ 
