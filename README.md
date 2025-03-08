@@ -3,7 +3,7 @@
 ## About Me
 I'm a university student at **USU** who loves programming! I have a strong interest in **UI/UX design** and **Object-Oriented Programming (OOP)**. I enjoy building intuitive user interfaces and writing clean, efficient code.
 
-## Tech
+## Tech Stuff
 - **Languages:** Java, Python, JavaScript, C++ 
 - **Tools:** NetBeans, GitHub, VS Code, Figma 
 
